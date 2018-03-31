@@ -8,6 +8,7 @@ Hello!
 YEYE 
 
 
-#20180401
-* class
-* function
+#20180402
+* list 
+* hungry
+* bebebebebebebebebebebe 
